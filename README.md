@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Ahirrao</h1>
 <h3 align="center">Software Developer at Dhobi G</h3>
 
-- 🌱 I’m currently learning **Bare React Native, React Native Expo, TypeScript.**
+- 🌱 I’m currently working on **Bare React Native, React Native Expo, TypeScript.**
 
 - 📫 How to reach me **tanmayahirrao25@gmail.com**
 
